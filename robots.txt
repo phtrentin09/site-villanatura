@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /avaliar
+
+Sitemap: https://villanaturaresidenciasenior.com/sitemap.xml
