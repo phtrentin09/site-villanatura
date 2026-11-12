@@ -258,6 +258,8 @@ p{margin:0 0 1em;text-wrap:pretty}
 .chamada a{color:#fff}
 .formulario{background:var(--cal);color:var(--tinta);padding:clamp(24px,4vw,40px);box-shadow:var(--sombra)}
 .formulario a{color:var(--verde-texto)}
+.chamada .formulario h3,.chamada .formulario p{color:var(--tinta)}
+.chamada .formulario .aviso{color:var(--tinta-2)}
 .campo{margin-bottom:18px}
 .campo label{display:block;font-weight:700;margin-bottom:6px;font-size:.98rem}
 .campo label small{font-weight:400;color:var(--tinta-2)}
